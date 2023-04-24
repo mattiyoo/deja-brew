@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/deja-brew/static/css/main.2ee1eada.css",
+    "main.js": "/deja-brew/static/js/main.237aac18.js",
+    "static/media/about.png": "/deja-brew/static/media/about.609e441df0cf13f2e596.png",
+    "static/media/about-us-img.png": "/deja-brew/static/media/about-us-img.3f3007035079880a4e97.png",
+    "static/media/cart-gif.gif": "/deja-brew/static/media/cart-gif.e2b7c9d01b5300d98ea7.gif",
+    "static/media/home-img.png": "/deja-brew/static/media/home-img.90cc3c3a96087e8f2775.png",
+    "static/media/home.png": "/deja-brew/static/media/home.679b48dbd0fcbfe557ee.png",
+    "static/media/shipping-gif.gif": "/deja-brew/static/media/shipping-gif.a595ee42ad0049cae363.gif",
+    "static/media/delivered-gif.gif": "/deja-brew/static/media/delivered-gif.e6ccf191fb6906c916f6.gif",
+    "static/media/s3.png": "/deja-brew/static/media/s3.df116c57fc98904496b9.png",
+    "static/media/s2.png": "/deja-brew/static/media/s2.29f4c274c2d64ca9f0e1.png",
+    "static/media/s1.png": "/deja-brew/static/media/s1.c7d6ad56eca80db9be4f.png",
+    "static/media/coffee-2.png": "/deja-brew/static/media/coffee-2.4dbea43dcb6225c66097.png",
+    "static/media/coffee-3.png": "/deja-brew/static/media/coffee-3.924cd988693e674a6122.png",
+    "static/media/coffee-1.png": "/deja-brew/static/media/coffee-1.096c90924e29ad80e952.png",
+    "index.html": "/deja-brew/index.html",
+    "main.2ee1eada.css.map": "/deja-brew/static/css/main.2ee1eada.css.map",
+    "main.237aac18.js.map": "/deja-brew/static/js/main.237aac18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ee1eada.css",
+    "static/js/main.237aac18.js"
+  ]
+}
