@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/deja-brew/static/css/main.dcfdebcc.css",
+    "main.css": "/deja-brew/static/css/main.13caff90.css",
     "main.js": "/deja-brew/static/js/main.268bb1f0.js",
     "static/media/about.png": "/deja-brew/static/media/about.609e441df0cf13f2e596.png",
     "static/media/about-us-img.png": "/deja-brew/static/media/about-us-img.3f3007035079880a4e97.png",
@@ -16,11 +16,11 @@
     "static/media/coffee-3.png": "/deja-brew/static/media/coffee-3.924cd988693e674a6122.png",
     "static/media/coffee-1.png": "/deja-brew/static/media/coffee-1.096c90924e29ad80e952.png",
     "index.html": "/deja-brew/index.html",
-    "main.dcfdebcc.css.map": "/deja-brew/static/css/main.dcfdebcc.css.map",
+    "main.13caff90.css.map": "/deja-brew/static/css/main.13caff90.css.map",
     "main.268bb1f0.js.map": "/deja-brew/static/js/main.268bb1f0.js.map"
   },
   "entrypoints": [
-    "static/css/main.dcfdebcc.css",
+    "static/css/main.13caff90.css",
     "static/js/main.268bb1f0.js"
   ]
 }
