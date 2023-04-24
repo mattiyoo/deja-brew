@@ -1,0 +1,14 @@
+.cta {
+    background: #feeee7;
+    text-align: center;
+    width: 66%;
+    margin: 100px auto;
+    border-radius: 10px;
+    padding: 70px 5%;
+}
+
+.cta h2 {
+    font-size: 2rem;
+    color: var(--bg-color);
+    margin-bottom: 30px;
+}
