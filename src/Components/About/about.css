@@ -30,7 +30,7 @@
     line-height: 1.7;
 }
 
-.about-img .blob {
+.about-img .about-blob {
     position: absolute;
     z-index: -1;
     animation: rotate 6s infinite linear;
@@ -69,6 +69,7 @@
         transform: translateX(-50px);
         width: 300px;
         height: 300px;
+        animation: none;
     }
 }
 
